@@ -1,0 +1,40 @@
+.box{
+    height: 80px;
+    width: 1000px;
+    margin: auto auto 30px auto;
+    
+}
+.bg-gray{
+    background-color: rgb(230, 224, 224);
+}
+.content1{
+    margin-top: 3px;
+    background-color: aquamarine;
+    width: 344px;
+    height: 100px;
+    float: left;
+    margin-right: 3px;
+ 
+    
+    
+}
+.content2{
+    margin-top: 3px;
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    float: left;
+    
+  
+}
+.content3{
+    margin-top: 3px;
+    background-color: aquamarine;
+    width: 450px;
+    height: 100px;
+    float: left;
+    margin-left: 3px;
+    
+   
+}
+
